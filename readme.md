@@ -7,6 +7,10 @@ This project is ideal for showcasing your understanding of distributed systems, 
 
 ---
 
+### Create the Workspace:
+```bash
+daytona create https://github.com/Zedoman/Dynamic_Emotion-Based_Playlist_Generator
+```
 ## Features
 - **Two Edge Servers**: Simulated by `server1` and `server2`.
 - **Load Balancer**: Distributes client requests to the least-loaded edge server.
