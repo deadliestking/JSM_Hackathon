@@ -112,8 +112,8 @@ curl http://localhost:8080/content1
 ```
 
 
-### Ideas for Future Enhancements
-## Geo-Based Load Balancing: Simulate routing requests to the nearest server.
-## Metrics and Monitoring: Show real-time server load and cache usage.
-## HTTP/2 Support: Improve content delivery efficiency.
-## Dashboard: Visualize request patterns and cache hits/misses.
+# Ideas for Future Enhancements
+### Geo-Based Load Balancing: Simulate routing requests to the nearest server.
+### Metrics and Monitoring: Show real-time server load and cache usage.
+### HTTP/2 Support: Improve content delivery efficiency.
+### Dashboard: Visualize request patterns and cache hits/misses.
